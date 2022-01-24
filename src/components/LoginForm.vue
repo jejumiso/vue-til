@@ -31,7 +31,7 @@ export default {
 	data() {
 		return {
 			username: 'test@gmail.com',
-			password: '1234',
+			password: '12341234',
 			logMessage: '',
 		};
 	},
